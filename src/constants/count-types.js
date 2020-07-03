@@ -1,0 +1,3 @@
+export const INCREMENT = 'INCREMENTED';
+export const DECREMENT = 'DECREMENTED';
+export const FETCH_POSTS = 'FETCHED_POSTS';
